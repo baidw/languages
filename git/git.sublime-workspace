@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"db",
+				"db_con_str〔variable〕"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"send",
+				"send_size"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"dg",
+				"SOCK_DGRAM〔variable〕"
+			],
+			[
+				"re",
+				"read_until"
+			],
+			[
+				"mesg",
+				"mesg_queue〔variable〕"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"con",
+				"continue〔keyword〕"
+			],
+			[
+				"exit",
+				"exitFlag〔variable〕"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"soc",
+				"socket〔module〕"
+			],
+			[
+				"T",
+				"Thread"
+			],
+			[
+				"name",
+				"nameList〔variable〕"
+			],
+			[
+				"qu",
+				"queueuLock〔variable〕"
+			],
+			[
+				"thr",
+				"threadID〔variable〕"
+			],
+			[
+				"thre",
+				"threading〔module〕"
+			],
+			[
+				"threa",
+				"threadID"
+			],
+			[
+				"th",
+				"threadID"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"err",
+				"error〔class〕"
+			],
+			[
+				"is",
+				"isInt"
+			],
+			[
+				"ssh",
+				"sshd〔variable〕"
+			],
+			[
+				"ss",
+				"sshd〔variable〕"
+			],
+			[
+				"ssh_",
+				"ssh_conn〔function〕"
+			],
+			[
+				"te",
+				"Telnet〔class〕"
+			],
+			[
+				"get",
+				"getpass〔module〕"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"pr",
+				"printScore"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"my",
+				"myfunc2〔function〕"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"fuc",
+				"functools"
+			],
+			[
+				"wra",
+				"wrapper_args"
+			],
+			[
+				"doc",
+				"decorator"
+			],
+			[
+				"fu",
+				"functools"
+			],
+			[
+				"ur",
+				"urlopen〔function〕"
+			],
+			[
+				"rem",
+				"remote_ip〔variable〕"
+			],
+			[
+				"gethost",
+				"gethostbyname〔function〕"
+			],
+			[
+				"er",
+				"error〔class〕"
+			],
+			[
+				"str",
+				"SOCK_STREAM〔variable〕"
+			],
+			[
+				"thren",
+				"threading〔module〕"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/sublimeprj/python/trainning/python_db.py",
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/sublimeprj/python/trainning/sqlite_db.py",
+			"settings":
+			{
+				"buffer_size": 1573,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "git:status",
+		"selected_items":
+		[
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"view:",
+				"View: Toggle Menu"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkgi",
+				"Package Control: Install Package"
+			],
+			[
+				"psa",
+				"Project: Save As"
+			],
+			[
+				"pkg",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"python",
+			"go run exam_001_hello.go",
+			"python -V",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = ",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/sublimeprj/python",
+		"/F/sublimeprj/python/trainning"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Desktop/my流程定义【流程引擎】.txt",
+		"/F/sublimeprj/git/README.md",
+		"/C/Users/user/Desktop/yunjs.txt",
+		"/C/Users/user/Desktop/nettl-start.txt",
+		"/C/Users/user/Desktop/glance.txt",
+		"/C/Users/user/Desktop/nettl.txt",
+		"/F/sublimeprj/python/trainning/queue_th.py",
+		"/C/Users/user/Desktop/20160524操作记录/50_crontab_new.txt",
+		"/F/sublimeprj/python/trainning/socketo_c.py",
+		"/F/sublimeprj/python/trainning/socketo_s.py",
+		"/F/sublimeprj/python/trainning/socket_s_conf.conf",
+		"/F/sublimeprj/python/trainning/socket_udp_c.py",
+		"/F/sublimeprj/python/trainning/socket_udp_s.py",
+		"/F/sublimeprj/python/trainning/telnet_01.py",
+		"/F/sublimeprj/python/exam/exma_001.py",
+		"/F/sublimeprj/python/trainning/socket_c.py",
+		"/F/sublimeprj/python/trainning/socket_s.py",
+		"/F/sublimeprj/python/trainning/socket_svr.py",
+		"/F/sublimeprj/python/trainning/socket_server.py",
+		"/C/Users/user/Desktop/新增备品备件光缆与光缆盒备件库2.txt",
+		"/C/Users/user/Desktop/新增备品备件光缆与光缆盒备件库.txt",
+		"/C/Users/user/Desktop/hp_command.txt",
+		"/C/Users/user/Desktop/huawei_getalldata.txt",
+		"/F/sublimeprj/python/trainning/telnet_hosts.py",
+		"/F/sublimeprj/python/pythonsocket.py",
+		"/F/sublimeprj/python/trainning/ssh_hosts.py",
+		"/F/sublimeprj/python/trainning/t_002_socket_threading_client.py",
+		"/C/Users/user/Desktop/20160524操作记录/启停脚本.txt",
+		"/C/Users/user/Desktop/20160524操作记录/65_crontab_old.txt",
+		"/C/Users/user/Desktop/20160524操作记录/65_crontab_new.txt",
+		"/C/Users/user/Desktop/20160524操作记录/50_crontab_old.txt",
+		"/F/sublimeprj/python/trainning/python_db.py",
+		"/F/sublimeprj/python/trainning/client.py",
+		"/C/Users/user/Desktop/C网网络连接情况.txt",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/user/Desktop/EOMS-ERROR.txt",
+		"/F/sublimeprj/python/trainning/t_005_class_attr.py",
+		"/F/sublimeprj/python/trainning/t_006_property.py",
+		"/F/sublimeprj/python/trainning/t_007_MixIn.py",
+		"/C/Users/user/Desktop/2016年线路统计需求.txt",
+		"/F/sublimeprj/python/exam/httpdown.py",
+		"/F/sublimeprj/python/trainning/t_001_socket.py",
+		"/F/sublimeprj/python/trainning/t_002_socket_server.py",
+		"/F/sublimeprj/python/trainning/t_002_socket_threading.py",
+		"/F/sublimeprj/python/trainning/t_003_decorator.py",
+		"/F/sublimeprj/python/trainning/t_004_class.py",
+		"/C/Users/user/Desktop/TestSocketClient.java",
+		"/C/Users/user/Desktop/DataSocketServer.java",
+		"/F/sublimeprj/golang/exam/th.py",
+		"/C/Users/user/Desktop/65_ALARM_DISPATCH_AGENT",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/F/sublimeprj/golang/exam/exam_001_hello.go",
+		"/F/sublimeprj/golang/exam/exam_002_variable.go",
+		"/F/sublimeprj/golang/golang.sublime-project",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/user/Desktop/alarm_dispatch_conf.xml",
+		"/F/sublimeprj/golang/exam/exam_001.go",
+		"/F/sublimeprj/docker/rd.txt",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/F/sublimeprj/golang/rd.txt",
+		"/F/sublimeprj/python/rd.txt",
+		"/F/sublimeprj/python/python.sublime-project",
+		"/F/git_repository/github.com/20160406.sublime-project",
+		"/F/git_repository/github.com/language/docker/readme.txt",
+		"/F/git_repository/github.com/text/mind/sbl.txt",
+		"/F/git_repository/github.com/language/python/demo/exam/exam_001_helloworld_01.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/F/git_repository/github.com/language/docker/docker.txt",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/F/git_repository/github.com/language/java/_DoSnmp.java",
+		"/C/Users/user/Desktop/hello.go",
+		"/C/Users/user/Desktop/hello.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160525004758_91986",
+			"/databak/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20160524205023_92265",
+			"/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20120625112540_4586bak",
+			"None",
+			"应急车",
+			"公安局南",
+			"职业技术学院",
+			"20160507",
+			"20160508",
+			"20160506",
+			"20160507",
+			"1.按月统计，分开地市统计\n2.统计维度包括：代维公司粒度\n3.统计字段：统计时间、地市、代维公司、巡检率\n举例：\n统计时间、 	地市、		代维公司、		计划数量、	完成数、		巡检率\n2016-01  	呼和浩特 	呼和浩特代维1 	10 			10 				100%\n2016-01  	包头     	包头代维1 		10 			10 				100%\n......\n\n",
+			"self",
+			"addrs",
+			"remote_ip",
+			"ERRO",
+			"DDDD",
+			"ddPrintddPrintddPrint",
+			"ddPrint",
+			"ctrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160524165627_15101",
+			"/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160525004758_91986",
+			"/databak/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20160524205023_92265",
+			"20160508",
+			"20160509",
+			"20160507",
+			"20160508"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/sublimeprj/python/trainning/python_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/sublimeprj/python/trainning/sqlite_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1560,
+								1560
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\user\\Desktop":
+	{
+		"height": 100.0
+	},
+	"output.9o://F:\\git_repository\\github.com\\language\\golang\\demo":
+	{
+		"height": 100.0
+	},
+	"output.9o://F:\\sublimeprj\\golang\\exam":
+	{
+		"height": 121.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "git.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"golang\\golang.sublime-project"
+			],
+			[
+				"docker",
+				"language\\docker\\docker.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
