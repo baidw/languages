@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"sn",
+				"snmp_ver〔variable〕"
+			],
+			[
+				"snm",
+				"snmp_mib2〔variable〕"
+			],
+			[
+				"snmp",
+				"snmp_ip〔variable〕"
+			],
+			[
+				"mi",
+				"mib2_interface"
+			],
+			[
+				"a",
+				"abs	function"
+			],
+			[
+				"e",
+				"eachLine"
+			],
+			[
+				"ite",
+				"iterm〔variable〕"
+			],
+			[
+				"b",
+				"bTuple"
+			],
+			[
 				"db",
 				"db_con_str〔variable〕"
 			],
@@ -188,19 +220,107 @@
 	"buffers":
 	[
 		{
-			"file": "/F/sublimeprj/python/trainning/python_db.py",
+			"file": "/D/工作/福建新大陆/项目资料/维护资料/CDMA网管-启停脚本.txt",
 			"settings":
 			{
-				"buffer_size": 789,
+				"buffer_size": 4061,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/F/sublimeprj/python/trainning/sqlite_db.py",
+			"contents": "LT-VPN\nhtts://116.114.81.150/por/login_psw.csp\nchenweiqun\n18650715805\n\n\n\n",
 			"settings":
 			{
-				"buffer_size": 1573,
+				"buffer_size": 73,
+				"line_ending": "Windows",
+				"name": "LT-VPN"
+			}
+		},
+		{
+			"contents": "9007:6.23~7.3\n9008:2.8~2.12、2.14,2.15,2.17,2.18,\n\n3.9~3.11,3.14~3.17,      --11,14,15,16\n5.11~5.13,5.15~5.18,\n11-18(except:14)\n6.23~7.3\n9009:6.23~7.3\n9010:6.23~7.3\n\n9004:6.23~7.4\n\n13327175153@189.cn   bt反馈如下需要删除：\n莫尼路三盯区域 \n建华南路二干三盯\n建华南路干线三盯\n东大桥二干三盯\n昆北路三盯\n西向一干三盯\n富强路新一干三盯\n新光西路一干三盯\n包东二干三盯\n西脑包三盯\n二干东向三盯\n新一干三盯\n固阳机房名流方向线路巡检\n\n\n\n哈拉沁 ，化工职业学院 ，皮革总厂，白塔村圆通应急车，福第宾馆，仁祥托教中心，农业推广中心，大青山生态园，南景苑小区，滨河路(万豪美墅成)，垃圾处理厂绿化带，善岱镇兵州亥村\n\n/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806\nksh /nmc/cdma_v3/zte_ran_tl1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/zte_ran_tl1/data/rstFile/pm/20160612022048_702 9004 7 201206211325294 1h 0\nksh /nmc/cdma_v3/zte_ran_tl1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/zte_ran_tl1/data/rstFile/pm/20160612022048_702 9004 8 201206211325294 1h 0\nksh /nmc/cdma_v3/zte_ran_tl1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/zte_ran_tl1/data/rstFile/pm/20160612022048_702 9004 9 201206211325294 1h 0\nksh /nmc/cdma_v3/zte_ran_tl1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/zte_ran_tl1/data/rstFile/pm/20160612022048_702 9004 10 201206211325294 1h 0\n/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 16 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 17 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 18 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 19 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 22 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 23 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 24 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 25 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 26 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 27 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 28 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 29 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_bt1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160612054527_1806 9008 30 201206211325294 1h 0\n\n\n13327002235@189.cn\n\ndeclare\nbegin\npkg_pm_meas_sum_11_a.PM_MEAS_SUM_MAIN('2016060623','2016060700');\nend;\n\n706电台\n山庄\n金山水库\nhalageng2\n\n706µçÌ¨\nwanghuongwei\nhh-123\n\n\n--天粒度补汇 6:20\ndeclare\nbegin\npkg_pm_meas_sum_11_a.PM_MEAS_SUM_DD_MAIN('2016060600','2013051100');\nend;\n\nhttp://222.74.1.146:28087/file/common/NewlandProject.ipa\ndeclare\nbegin\npkg_np_cn_pm.PM_PRE(p_subnet_id => 9008,p_start_time => '2014071807',p_period => '1h',p_action_type => 0);\nend;\n\n\n\n\nenterprises.2011.2.181.6\n\nsnmpwalk -c NMdx-EOMS-FW-ED200E_00 -v 1 136.224.243.188  enterprises.2011.2.181.6\nsnmpwalk -c NMdx-EOMS-FW-ED200E_00 -v 1 136.224.243.188  enterprises.2011.ifNumber\nsnmpwalk -c NMdx-EOMS-FW-ED200E_00 -v 1 136.224.243.188  1.3.6.1.4.1.2011.2.181.6.ifNumber.0\n\n\n\nsnmpwalk -c NMdx-EOMS-FW-ED200E_00 -v 1 136.224.243.188  1.3.6.1.2.1.2.2.1\n--------------------------------------------------------------------------------\ninternet:1.3.6.1\n		directory	:1.3.6.1.1\n		mgmt		:1.3.6.1.2\n					mib-2	:1.3.6.1.2.1\n							system		:1.3.6.1.2.1.1\n							interface	:1.3.6.1.2.1.2\n							at 			:1.3.6.1.2.1.3\n							ip 			:1.3.6.1.2.1.4\n							icmp 		:1.3.6.1.2.1.5\n							tcp 		:1.3.6.1.2.1.6\n							udp			:1.3.6.1.2.1.7\n							egp			:1.3.6.1.2.1.8\n							cmot		:1.3.6.1.2.1.9\n							transmission:1.3.6.1.2.1.10\n							snmp 		:1.3.6.1.2.1.11\n		experimental:1.3.6.1.3\n		private		:1.3.6.1.4    ---for company private mib for in this node.\n--------------------------------------------------------------------------------\n2011.2.181.6\nIF-MIB::ifNumber.0 = INTEGER: 13\nIF-MIB::ifIndex.128 = INTEGER: 128\nIF-MIB::ifIndex.262 = INTEGER: 262\nIF-MIB::ifIndex.385 = INTEGER: 385\nIF-MIB::ifIndex.513 = INTEGER: 513\nIF-MIB::ifIndex.774 = INTEGER: 774\nIF-MIB::ifIndex.898 = INTEGER: 898\nIF-MIB::ifIndex.1026 = INTEGER: 1026\nIF-MIB::ifIndex.1154 = INTEGER: 1154\nIF-MIB::ifIndex.1282 = INTEGER: 1282\nIF-MIB::ifIndex.1410 = INTEGER: 1410\nIF-MIB::ifIndex.1543 = INTEGER: 1543\nIF-MIB::ifIndex.1671 = INTEGER: 1671\nIF-MIB::ifIndex.1799 = INTEGER: 1799\nIF-MIB::ifDescr.128 = STRING: InLoopBack0\nIF-MIB::ifDescr.262 = STRING: NULL0\nIF-MIB::ifDescr.385 = STRING: GigabitEthernet0/0/0\nIF-MIB::ifDescr.513 = STRING: GigabitEthernet0/0/1\nIF-MIB::ifDescr.774 = STRING: Cellular0/1/0\n\nsnmpget  -c NMdx-EOMS-FW-ED200E_00 -v 1 136.224.243.188 1.3.6.1.4.1.2011\n",
+			"settings":
+			{
+				"buffer_size": 5523,
+				"line_ending": "Windows",
+				"name": "9007:6.23~7.3"
+			}
+		},
+		{
+			"contents": "os rlogin \"cardx\" Do you wish to proceed\nyes Card x ->\nset unsafe \ngetMpc8641dTemperature 0 \ngetMpc8641dTemperature 2 \ngetMpc8641dTemperature 4 \nquit Closed connection\n\n\nlt-znxj123\n",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Windows",
+				"name": "os rlogin \"cardx\" Do you wish to proceed"
+			}
+		},
+		{
+			"file": "/C/Users/user/Desktop/WSS13.txt",
+			"settings":
+			{
+				"buffer_size": 20533,
+				"line_ending": "Windows",
+				"name": "(c)Copyright 1983-2006 Hewlett-Packard Development"
+			}
+		},
+		{
+			"contents": "参考命令：\ntelnet 134.5.57.4 7722\nSET NDFNE:ID=131;\nSLOGIN:NAME=xdlxdl,PWD=xdlxdl;\nSLOGOUT; \n\n\n134.5.57.16\n\n\n\ntelnet 172.168.0.29\n\n111111\n\n\nsmp/smp\nsmp/smp\nscu/scu\nscu/scu\nscu/scu\nscu/scu\n\n\nossuser/omcuser\nossuser/Changeme_123\nossuser/omcuser\nossuser/omcuser\nossuser/Changeme_123\nossuser/Changeme_123\nossuser/Changeme_123\nossuser/Changeme_123\nossuser/Changeme_123\n\n241:SLC=ALL,LKSET=ALL,DETAIL=3.",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Windows",
+				"name": "参考命令："
+			}
+		},
+		{
+			"file": "/F/sublimeprj-local/python/exam/mib2_mo.py",
+			"settings":
+			{
+				"buffer_size": 962,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Desktop/snmp_log.txt",
+			"settings":
+			{
+				"buffer_size": 142998,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Desktop/snmp_log1.txt",
+			"settings":
+			{
+				"buffer_size": 215912,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#访问U2000网管服务\ntelnet 134.0.57.71 31114 \n#账号登录\nLGI:OP=\"xdlxdl\", PWD=\"Xdl1234!\";\n#注册网元，比如：CGP\nREG NE:IP=\"134.0.57.8\";\n#执行该类型网元的命令，比如CGP的如下命令\nDSP SYSRES: RESTYPE=BOARD,BDRID=DISK:;\n#注销网元\nUNREG NE:IP=\"134.0.57.8\";\n#注销账号\nLGO:OP=\"xdlxdl\";\n",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows",
+				"name": "#访问U2000网管服务"
+			}
+		},
+		{
+			"contents": "/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312\n/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312\n/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312\n\n\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 1 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 2 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 3 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 4 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 5 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 6 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 7 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 8 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 9 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 10 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 11 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 12 201206211325294 1h 0\nksh /nmc/cdma_v3/asb_ran_hle1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312 9010 13 201206211325294 1h 0\n\n\n/databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160608034617_337\n\nksh /nmc/cdma_v3/asb_ran_hhht1/bin//script/deal_pm_data.sh /databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160608034617_337 9009 31 201206211325294 1h 0\n\n\ncurl http://132.33.2.70:8008/EOMSZKInterface/services/EmosZkInterface?wsdl |more\n\n\n\n1、远程连接到HSTP服务器的8000端口。\ntelnet 192.168.0.100 8000\n2、执行以下命令，登录HSTP服务器。\nLGI:OP=\"znxj\",PWD=\"123456\";\n3、登陆网元：REG NE:IP=\"192.168.0.100\";\nREG NE:IP=\"10.7.101.69\";\n\nUNREG NE:IP=\"192.168.0.100\";\n\nLGO:OP=\"znxj\":;\nLGO:OP=\"znxj\"\nLGO:OP=\"znxj\";\n\ntelnet 10.100.65.233 6000\nLGI:OP=\"WGZX\",PWD=\"Sysadmin@2009\";\nLGO:OP=\"WGZX\";\n\n\nssh -l AlcatelSSH 192.169.1.12\n\n\n\nZIHI::WDU,;\n\n\nIP地址评估\n",
+			"settings":
+			{
+				"buffer_size": 2965,
+				"line_ending": "Windows",
+				"name": "/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/"
+			}
+		},
+		{
+			"contents": "huawei ims:\ntelnet 134.0.57.71 31114\nLGI:OP=\"xdlxdl\",PWD=\"Xdl1234!\";\nREG NE:IP=\"134.0.57.8\";\n\nUNREG NE:IP=\"134.0.57.8\";\nLGO:OP=\"xdlxdl\";\n\n\nREG NE:IP=\"134.0.57.19\";\nUNREG NE:IP=\"134.0.57.19\";\n\n134.7.57.136\n\nUNREG NE:IP=\"134.0.57.143\";\nzte ims:\ntelnet 134.5.57.4 7722\nSET NDFNE:ID=201;\nSLOGIN:NAME=xdlxdl,PWD=xdlxdl;\n\n\nSLOGOUT; \n\n\n\n\n\nssh -l  AlcatelSSH 192.169.1.3\nalcatel0921\n\n\nnbi\nssh -l  nbi 192.169.1.3\nwelcomenbi\n\n\nssh -l WGZX 10.100.65.233\n\n\nssh -l mxadmin 8.3.113.3\n\n\n193.0.10.1\n\ntelnet 193.0.10.1\ntelnet 193.0.10.1       \n\n\nssh -l ossuser \n\n\n\nLGI:OP=\"znxj\",PWD=\"123456\";\nREG NE:IP=\"192.168.0.100\";\nLGO:OP=\"znxj\";\n1.局向/LINK状态检查\n2.查询系统时间\n3.前后台一致性\n4.业务数据一致性检测\n5.时钟跟踪状态\n\n\nssh -l xdl  10.217.43.2\nspatial1\n\n",
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Windows",
+				"name": "huawei ims:"
 			}
 		}
 	],
@@ -271,10 +391,74 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "git:status",
+		"height": 150.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pkg re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkg insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"remove pkg",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkg list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa list",
+				"Package Control: List Packages"
+			],
+			[
+				"aut",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Snippet: ",
+				"Snippet: python_head"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"snap",
+				"Set Syntax: Python"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"keybindings",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"",
+				"About"
+			],
 			[
 				"git:status",
 				"Git: Status"
@@ -312,13 +496,16 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 432.0
 	},
 	"console":
 	{
 		"height": 229.0,
 		"history":
 		[
+			"{",
+			"\"update_check\": false,",
+			"{",
 			"python",
 			"go run exam_001_hello.go",
 			"python -V",
@@ -340,13 +527,53 @@
 	},
 	"expanded_folders":
 	[
-		"/F/sublimeprj/python",
-		"/F/sublimeprj/python/trainning"
+		"/F/sublimeprj-local",
+		"/F/sublimeprj-local/python",
+		"/F/sublimeprj-local/python/exam"
 	],
 	"file_history":
 	[
-		"/C/Users/user/Desktop/my流程定义【流程引擎】.txt",
+		"/C/Users/user/Desktop/贝尔-HSS-192.169.1.12_result.txt",
+		"/D/工作/福建新大陆/项目资料/维护资料/简单系统巡检命令.txt",
+		"/F/sublimeprj/python/exam/exam_0102_input.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/F/sublimeprj/python/exam/exam_0117_innerfunc.py",
+		"/F/sublimeprj/python/exam/exam_0113_error.py",
+		"/F/sublimeprj/python/exam/exam_0111_for2range.py",
+		"/F/sublimeprj/python/exam/exam_0103_comment.py",
+		"/F/sublimeprj/python/exam/exam_0108_dict.py",
+		"/F/sublimeprj/python/exam/exam_0109_if.py",
+		"/F/sublimeprj/python/exam/exam_0104_operator.py",
+		"/F/sublimeprj/python/exam/exam_0101_hello.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/F/sublimeprj/python/exam/exam_0116_module.py",
+		"/F/sublimeprj/python/exam/exam_0115_class.py",
+		"/F/sublimeprj/python/exam/exam_0114_func.py",
+		"/F/sublimeprj/python/exam/exam_0112_file.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/F/sublimeprj/python/exam/exam_0110_while.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/F/sublimeprj/python/exam/exam_0105_var2datatype.py",
+		"/F/sublimeprj/python/exam/exam_0106_string.py",
+		"/F/sublimeprj/python/exam/exam_0107_list2array.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/snippets/test.sublime-snippet",
 		"/F/sublimeprj/git/README.md",
+		"/C/Users/user/Desktop/a.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/F/sublimeprj-local/git/README.md",
+		"/F/sublimeprj/python/exam/exam_001_hello.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/F/sublimeprj/python/trainning/file_read.py",
+		"/F/sublimeprj/python/trainning/python_db.py",
+		"/F/sublimeprj/python/trainning/sqlite_db.py",
+		"/C/Users/user/Desktop/my流程定义【流程引擎】.txt",
 		"/C/Users/user/Desktop/yunjs.txt",
 		"/C/Users/user/Desktop/nettl-start.txt",
 		"/C/Users/user/Desktop/glance.txt",
@@ -376,10 +603,8 @@
 		"/C/Users/user/Desktop/20160524操作记录/65_crontab_old.txt",
 		"/C/Users/user/Desktop/20160524操作记录/65_crontab_new.txt",
 		"/C/Users/user/Desktop/20160524操作记录/50_crontab_old.txt",
-		"/F/sublimeprj/python/trainning/python_db.py",
 		"/F/sublimeprj/python/trainning/client.py",
 		"/C/Users/user/Desktop/C网网络连接情况.txt",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
 		"/C/Users/user/Desktop/EOMS-ERROR.txt",
 		"/F/sublimeprj/python/trainning/t_005_class_attr.py",
 		"/F/sublimeprj/python/trainning/t_006_property.py",
@@ -395,23 +620,14 @@
 		"/C/Users/user/Desktop/DataSocketServer.java",
 		"/F/sublimeprj/golang/exam/th.py",
 		"/C/Users/user/Desktop/65_ALARM_DISPATCH_AGENT",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
 		"/F/sublimeprj/golang/exam/exam_001_hello.go",
 		"/F/sublimeprj/golang/exam/exam_002_variable.go",
 		"/F/sublimeprj/golang/golang.sublime-project",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
 		"/C/Users/user/Desktop/alarm_dispatch_conf.xml",
 		"/F/sublimeprj/golang/exam/exam_001.go",
 		"/F/sublimeprj/docker/rd.txt",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
 		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
 		"/F/sublimeprj/golang/rd.txt",
 		"/F/sublimeprj/python/rd.txt",
 		"/F/sublimeprj/python/python.sublime-project",
@@ -434,7 +650,7 @@
 	],
 	"find":
 	{
-		"height": 21.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -449,6 +665,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160607094608_67",
+			"/databak/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20160607095253_75",
+			"git",
+			"filename",
+			"echo \"# languages\" >> README.md\ngit init\ngit add README.md\ngit commit -m \"first commit\"\ngit remote add origin git@github.com:baidw/languages.git\ngit push -u origin master\n\n2016-06-01\nid_rsa.pub\nssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDe5MbvNZFvpVlgwMVjgu6ioM9Ses1wiPuwEtTtzYcCzQqr8AycUQ88iu5RRXsf0cnIu88+BpJCiqRCiT2sDci049IZT3ftW8SFLVgambho1QmDkjUxL/HJ6kEi71tK2a6NOjMWfmhDjb8P0SuvvsA+1NlqN/tiSghWZlrecAvR4R0eF6+cgRG2bIT592+pjOfZm6q3RnTFeVEYSINry9LgeUe6nxt6JxXg8J6+XSpzAVqoESxK0kEz9nSuiCeUUUQJIypXgFEVQbkFazFYaHZ/DXRls5GmffSkPlkixhfRUupCKativd0M9hV9BUYMSZfSTu2E181WWnkpF0aZP4AH baidwei@126.com\n\n\ngit dir\n目录结构\n一、安装GIT \n二、初始配置\n三、版本库操作命令\n四、\n五、\n\ngit是分布式版本控制系统\n参考：http://www.bootcss.com/p/git-guide/\n一、安装GIT\nLinux系统:\ngit --version    #查看git版本，若没有则提示：git: command not found\nsudo apt-get install git  #Debian或Ubuntu Linux系统   \n#若是老版本的Debian或Ubuntu Linux 参考安装命令：sudo apt-get install git-core\n#源码安装步骤：\n1.官网下载源码\n2.执行 ./configure ; make ;sudo make install\n\nWindow系统：\nhttp://msysgit.github.io/下载最新版本安装\n\n二、初始配置\n1.创建仓库respository\ncd 源码目录        #源码目录(工作区)，没有可以创建空的工作区目录\ngit init 		   #初始化，即创建respository仓库，创建成功会生成一个.git的目录[windows下，是隐藏文件夹]\n2.配置用户信息\ngit config --global user.name  XXXXXX 	#XXXXXX 用户名\ngit config --global user.email XXXXXX 	#XXXXXX 用户邮箱\n\ngit config --list 						#查看用户信息\ngit rev-parse --git-dir 				#显示.git所在目录位置\ngit rev-parse --show-toplevel           #显示工作区根目录\n\n\n\n三、版本库操作命令\n1.添加、删除文件[add到暂存区]\ngit add filename 	#添加单个文件\ngit add . 			#添加当前目录下的所有未提交的文件\ngit add [path]      #添加目录或文件\n2.提交文件[commit到git仓库]\ngit commit -m \"xx\"  #提交，同时添加\"xx\"简单地 提交版本描述\n3.查看版本库状态 及 版本信息\ngit status 			#查看工作区状态\ngit log 			#查看版本信息\ngit log --pretty=oneline  #精简单行显示：已提交的版本信息\n3.版本撤销、恢复\ngit reset				  #将所有暂存区的文件，返回到非暂存区时的状态\ngit reset --hard          #回到原来编辑的地方,这中间的修改会丢失\ngit reset --hard XXXXXX   #回到指定的版本\n\n\n4.查看修改内容不同之处\ngit diff filename   #比较未add的文件 与 add的文件区别\n\n几个 Git 的基础最佳实践\n12\n• 管理纯文本文件\n• 使用 .gitignore文件\n• 使用分支\n• 合理的使用标签\n• 规范 commit message 写法\n• 规范项目编码（推荐 UTF-8）\n• 尽量不要去改写历史\n• 尽量保持仓库较新\n• 按照代码的完成度提交\n",
+			"filename",
 			"/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160525004758_91986",
 			"/databak/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20160524205023_92265",
 			"/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20120625112540_4586bak",
@@ -476,6 +698,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/pm/20160608014953_312",
+			"/databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160607094608_67",
 			"/databak/nmcpub/cdma_v3/asb_ran_hhht1/data/rstFile/pm/20160524165627_15101",
 			"/databak/nmcpub/cdma_v3/asb_ran_bt1/data/rstFile/pm/20160525004758_91986",
 			"/databak/nmcpub/cdma_v3/asb_ran_lh1/data/rstFile/pm/20160524205023_92265",
@@ -493,65 +717,367 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/F/sublimeprj/python/trainning/python_db.py",
+					"file": "/D/工作/福建新大陆/项目资料/维护资料/CDMA网管-启停脚本.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 789,
+						"buffer_size": 4061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								327,
-								327
+								407,
+								407
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "LT-VPN",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								321
+							]
+						],
+						"settings":
+						{
+							"auto_name": "9007:6.23~7.3",
+							"default_dir": "F:\\sublimeprj\\python",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/F/sublimeprj/python/trainning/sqlite_db.py",
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1573,
+						"buffer_size": 181,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1560,
-								1560
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"auto_name": "os rlogin \"cardx\" Do you wish to proceed",
+							"default_dir": "F:\\sublimeprj\\python",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/user/Desktop/WSS13.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1012,
+								1012
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(c)Copyright 1983-2006 Hewlett-Packard Development",
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_name": "参考命令：",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/F/sublimeprj-local/python/exam/mib2_mo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
+							"is_init_dirty_state": false,
 							"open_with_edit": true,
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 792.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/user/Desktop/snmp_log.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								1230
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/user/Desktop/snmp_log1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 215912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10845,
+								10845
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#访问U2000网管服务",
+							"default_dir": "F:\\sublimeprj\\python",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2955,
+								2944
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/databak/nmcpub/cdma_v3/asb_ran_hle1/data/rstFile/",
+							"default_dir": "F:\\sublimeprj\\python",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"auto_name": "huawei ims:",
+							"default_dir": "F:\\sublimeprj\\python",
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -606,7 +1132,7 @@
 	},
 	"output.exec":
 	{
-		"height": 213.0
+		"height": 203.0
 	},
 	"output.find_results":
 	{
@@ -658,11 +1184,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 216.0,
+	"side_bar_width": 142.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
