@@ -91,13 +91,12 @@ git stash drop									---放弃所有最近stash的更改
 git status 										---列出所有更改的文件，通过add添加到暂存区，通过commit提交到本地仓库
 git diff 										---展示出那些没有暂存文件的差异
 git add [filename]								---将filename放到暂存区
-git diff --staged								---比较暂存区文件 与最新版本之间的差异
+git diff --staged				
 git reset [filename]							---将文件移除暂存区，但保留内容
 git commit -m "desc messages"					---将暂存区的文件，提交到本地版本库中，并添加描述信息
 7.批量更改 
 git branch										---列出当前仓库的所有本地分支
 git branch [branch-name]						---创建一个branch-name名称的新分支
-git checkout [branch-name]						---切换到branch-name的特定分支上，并更新工作目录
 git merge [branch-name]							---合并branch-name分支的历史到当前分支
 git branch -d [branch-name]						---删除名为branch-name的分支
 8.查阅历史
