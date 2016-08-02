@@ -1,20 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 __author__='baidw'
-
-class MyError(Exception):
-         
-    def __init__(self, value):
-        self.value = value
-    def __str__(self):
-        return repr(self.value)
-
-def main():  
-    try:
-        raise MyError(2*2)
-    except MyError as e:
-        print 'My exception occurred, value:', e.value
-    
+  
 if __name__ == "__main__":
-    main()
-    
+    #main()
+    #判断一个串是什么类型的，然后根据类型做转换，如果类型是unicode
+    #用s.decode('gbk')会将字符串内容转换为中文
+    s=u'\u4e0e\u4e16\u754c\u5206\u4eab\u4f60\u7684\u77e5\u8bc6\u3001\u7ecf\u9a8c\u548c\u89c1\u89e3'
+    print type(s)
+    print s.decode('gbk')
