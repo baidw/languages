@@ -32,3 +32,4 @@ if __name__ == '__main__':
     print champion(50)
     for i in champion(100):
         print i,
+    
