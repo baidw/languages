@@ -5,7 +5,7 @@ __author__='baidw'
 import smtplib
 from email.mime.text import MIMEText 
 
-mail_host = 'smpt.163.com'
+mail_host = 'smtp.163.com'
 mail_port = 25
 mail_timeout= 5
 mail_user = "uname"
