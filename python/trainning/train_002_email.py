@@ -5,7 +5,7 @@ __author__='baidw'
 import smtplib
 from email.mime.text import MIMEText
 
-receiver_lists=['125113435@qq.com']    #收件人(列表)
+receiver_lists=['mail@mail.com']    #收件人(列表)
 sender_mail_host='smtp.163.com'              #发送邮件的smtp服务器地址,比如163
 sender_mail_port=25
 sender_name='mail_user'                 #发送邮件的用户
