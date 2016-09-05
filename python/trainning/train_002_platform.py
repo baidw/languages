@@ -9,9 +9,9 @@ import os
 if __name__ == '__main__':
     #print platform.system()
     os_sys = platform.system()
-    # print platform.platform()
-    # print platform.release()
-    # print platform.version()
-    # print platform.architecture()
-    # print platform.machine()
+    #print platform.platform()
+    #print platform.release()
+    #print platform.version()
+    #print platform.architecture()
+    #print platform.machine()
     print os_sys

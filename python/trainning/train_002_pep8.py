@@ -10,9 +10,9 @@ Python编程规范
     # -*- coding:utf-8 -*-
     用于设置编辑器,保存格式
 2.注释
-    业界普遍认同 Python 的注释分为两种：
-    1.1.由 # 开头的“真正的”注释；
-    1.2.docstrings，例如，用于表明如何使用这个包、模块、类、函数（方法），甚至包括使用示例和单元测试
+    Python的注释分为两种：
+    1.由#开头的“真正的”注释；
+    2.docstrings，例如，用于表明如何使用这个包、模块、类、函数（方法），甚至包括使用示例和单元测试
     坚持适当注释原则。
     对不存在技术难点的代码坚持不注释，对存在技术难点的代码必须注释
 3.缩进
@@ -95,6 +95,6 @@ def this_is_function():
     return 5
     
 if __name__ == '__main__':
-    THIS_IS_CONSTANT=1  #这是常量定义
-    this_is_variable=1  #这是变量定义
-    fn=this_is_function()   #这是函数定义
+    THIS_IS_CONSTANT = 1  #这是常量定义
+    this_is_variable = 1  #这是变量定义
+    fn = this_is_function()   #这是函数定义
