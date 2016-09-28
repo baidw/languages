@@ -28,8 +28,8 @@ def ssh2(ip, port, uname, upass, cmds):
 if __name__ == '__main__':
     ip = "ip"
     port = 22
-    login_name = 'name'
-    login_pass = 'passwd'
+    login_name = 'login_name'
+    login_pass = 'login_pass'
     cmds = ['netstat -an|grep 22', 'date']
     flag=ssh2(ip, port, login_name, login_pass, cmds)
     if flag:
